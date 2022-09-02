@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onurkolayli&label=Profile%20views&color=0e75b6&style=flat" alt="onurkolayli" /> </p>
 
-- I’m currently working on **NodeJS, ReactJS and Django.**
+- :computer: I’m currently working on **NodeJS, ReactJS and Django.**
 
-- Interested in **ML, AI and Evolutionary Computation.**
+- :books: Interested in **ML, AI and Evolutionary Computation.**
 
-- F1, Football and Basketball enthusiast!
+- :racing_car: F1, Football and Basketball enthusiast!
 
 - 📫 How to reach me **onurkolayli35@gmail.com**
 

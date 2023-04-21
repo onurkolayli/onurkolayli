@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Onur!</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onurkolayli&label=Profile%20views&color=0e75b6&style=flat" alt="onurkolayli" /> </p>
 
-- :computer: I’m currently working on **NodeJS, ReactJS and Django.**
+- :computer: I’m currently working on **Python, Django, NodeJS, TypeScript and Angular.**
 
 - :books: Interested in **ML, AI and Evolutionary Computation.**
 
@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://twitter.com/onur_kolayli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onur_kolayli" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/onurkolayli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onurkolayli" height="30" width="40" /></a>
-<a href="https://instagram.com/onur_kolayli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="onur_kolayli" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
